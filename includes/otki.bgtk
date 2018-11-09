@@ -1,0 +1,22 @@
+ dynamic_menu_pro m;
+void exiter(bool player=false)
+{
+m.reset(false);
+if(player==true)
+{
+p.play_stationary("tf.wav",false);
+p.play_stationary("test.wav",true);
+
+}
+m.enable_up_and_down=true;
+m.wrap=false;
+}
+void program()
+{
+exiter(true);
+m.add_item_tts(" ","exit");
+int mres=m.run(" ",true);
+if (m.get_item_name(mres)=="play")
+{
+}
+}
