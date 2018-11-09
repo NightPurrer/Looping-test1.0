@@ -1,0 +1,9 @@
+#include"includes/kotki.bgt"
+#include"includes/kotka.bgt"
+#include"sound_pool.bgt"
+sound_pool p;
+void main()
+{
+show_game_window("Looping test");
+program();
+}

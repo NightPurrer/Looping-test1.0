@@ -1,0 +1,4 @@
+Often developers freely choose the music before programming, and thanks to this program, they can see whether their music is played correctly in the loop.
+To check the loops track, paste a test.wav file in to the application folder.
+Czêsto deweloperzy dobieraj¹ muzykê przed programowaniem, i dziêki temu programowi, mog¹ zobaczyæ czy ich muzyka zostanie poprawnie odtworzona w pêtli.
+Aby sprawdziæ zapêtlanie sie utworu, wklej do folderu plik test.wav
